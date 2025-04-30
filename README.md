@@ -1,6 +1,7 @@
 # Atividade – Design Pattern Adapter
 
 Nome: Gustavo dos Santos Arnoni | RA: 22014037-2
+
 Nome: Luciano Giraldi Filho | RA: 22228890-2
 
 Este projeto implementa o padrão de projeto **Adapter** usando Node.js, convertendo dados de um arquivo CSV em objetos da classe `Pessoa`.
